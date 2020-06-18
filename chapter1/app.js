@@ -4,7 +4,7 @@
                                 // **** cp 1 ****
 
 
-alert("JAVA SCRIPT FIRST ASSIGNMENT");
+alert("JAVA SCRIPT Assignment 1");
 alert("Error!please enter a valid password");
 alert("Welcom to js land.. \n Happy Coding!");
 alert("Welcom to js land..");
